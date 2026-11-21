@@ -15,30 +15,26 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## Sector Overview & Market Dynamics
 
-- **[Krisp](https://krisp.ai/)**  
-  **Real-time noise cancellation for live calls** on Zoom, Teams, Meet, Webex, and Slack. Sits between your microphone and the call app as a virtual device, removing background noise, other voices, and echo as you speak [citation:1][citation:8]. **$8/month per user on annual billing ($16 monthly) after a 7-day trial** [citation:1][citation:8]. Best for individuals and teams wanting noise-free calls without infrastructure management.
+The AI audio processing and speech enhancement sector is estimated at **$1.8B to $2.3B** (scaling toward **$6.6B+ by 2030** at ~30% CAGR). The market exhibits a **bifurcated, moderately fragmented structure**: the baseline foundational and OS layers are concentrated among Big Tech and DSP chip leaders (Google, Apple, Microsoft, Qualcomm), while the application, creator software, and real-time noise cancellation layer is fragmented across specialized independent SaaS innovators, vertical startups, and open-source models.
 
-- **[Adobe Podcast Enhance Speech](https://podcast.adobe.com/enhance)**  
-  **The go-to free tool for rescuing one bad recording.** Browser-based AI enhancement that removes background noise and echo, making voice sound richer and fuller [citation:6][citation:8]. **Free tier supports files up to 30 minutes and 500MB, with 1 hour of optimization per day** [citation:13]. Premium adds video support and higher limits via Adobe Express Premium (~$12.99/mo) [citation:13]. Best for one-off rescues where no budget is available.
+## SaaS Products
 
-- **[Auphonic](https://auphonic.com/)**  
-  **Built for producers who publish on a schedule.** Every plan—including the **free 2 hours/month**—includes Intelligent Leveler, noise and reverb reduction, loudness targets for podcast/broadcast specs, filler-word and silence cutting, video support, and audiograms [citation:1][citation:4]. **Paid plans: ~$11/month for 9 hours (yearly) or $13 monthly; one-time credits from $12 for 5 hours ($2.40/hr) down to $1.71/hr at 100 hours** [citation:4][citation:11]. Best for weekly podcasts needing levelling and loudness compliance.
-
-- **[Cleanvoice AI](https://cleanvoice.ai/)**  
-  **Focuses on the edits that take longest by hand**: removing filler words, background noise, mouth sounds, and breaths—including on video podcasts [citation:1][citation:5]. **Free trial: 30 minutes, no card required.** **Paid: $11/month for 10 hours (~$1.10/hr) or $28/month for 30 hours (~$0.93/hr)**; pay-as-you-go credits valid for 2 years [citation:1][citation:5]. Subscription credits roll over up to 3x the monthly limit [citation:5]. Best when filler-word removal is the primary pain point.
-
-- **[Descript Studio Sound](https://www.descript.com/)**  
-  Integrated audio cleanup within the Descript editing workflow. Best for teams already editing in Descript—no separate processing step required [citation:1].
-
-- **[ElevenLabs Voice Isolator](https://elevenlabs.io/)**  
-  AI voice isolation tool available as part of ElevenLabs' platform. Free for normal use according to 2026 comparisons [citation:8]. Best for isolating speech from heavily noisy recordings where other tools struggle.
+| Product | Company Scale (Revenue / Valuation) | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Key Features & Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Podcast Enhance Speech](https://podcast.adobe.com/enhance)** | **$25.97B Revenue** (~$90B Market Cap) | **$9.99/mo** (Express / Firefly Pro annual plan) | **Free forever**: Max 30 mins/file, 500 MB/file, up to 1 hr total processing/day | Browser-based AI speech enhancement removing reverb, background noise, and boosting vocal presence. |
+| **[ElevenLabs Voice Isolator](https://elevenlabs.io/)** | **~$600M ARR** ($22B Valuation) | **$5/mo** (Starter plan; billed monthly) | **Free forever**: 10,000 credits/mo (~10 mins audio), personal/non-commercial use only with attribution | Precision AI voice extraction and background noise isolation from heavily corrupted or noisy audio. |
+| **[Descript Studio Sound](https://www.descript.com/)** | **~$50M–$55M ARR** ($550M Valuation) | **$16/mo per user** (Hobbyist annual; $24/mo monthly) | **Free forever**: 1 media hour/mo, 100 one-time AI credits, 720p watermark-free exports, 5 GB storage | Integrated timeline editor with one-click Studio Sound audio cleanup, filler-word removal, and voice cloning. |
+| **[Krisp](https://krisp.ai/)** | **~$38M–$41M ARR** (~$100M Valuation) | **$8/mo per user** (Core annual; $16/mo monthly) | **7-day free trial**: Full access (unlimited noise cancellation, transcription, meeting notes), 0 days ongoing free tier | Virtual microphone driver performing real-time bi-directional noise, voice, and echo cancellation for live calls. |
+| **[Auphonic](https://auphonic.com/)** | **~$1M ARR** (Bootstrapped / Independent) | **$11/mo** (9 audio hours/mo annual; $13/mo monthly; or $12 one-time for 5 hrs) | **Free forever**: 2 hours of processed audio per month with all standard processing algorithms | Automated audio post-production web service: intelligent leveler, loudness specs (EBU R128), and noise reduction. |
+| **[Cleanvoice AI](https://cleanvoice.ai/)** | **~$200k–$500k ARR** (Bootstrapped / Independent) | **$11/mo** (€10/mo for 10 hours; or €10 pay-as-you-go credits) | **Free trial**: 30 minutes of processing total, no credit card required, 0 hours ongoing free tier | Dedicated post-processing algorithm specifically targeting filler words (um, uh), mouth clicks, breath sounds, and noise. |
 
 ## Open-Source GitHub Projects
 
