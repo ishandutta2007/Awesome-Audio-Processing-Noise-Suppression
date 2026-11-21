@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-Processing-Noise-Suppression"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -76,9 +76,9 @@ A comparison of leading hosted platforms, sorted in descending order of **compan
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source neural noise suppression and speech enhancement models, sorted in descending order by **GitHub Stars** ⭐:
+Curated open-source neural noise suppression and speech enhancement models, sorted in descending order by **GitHub_Stars** ⭐:
 
-| Project & Repository | ⭐ Stars | 📄 License | ⚡ Latency / Architecture | 🎯 Description & Best Use Case |
+| Project & Repository | ⭐ GitHub_Stars | 📄 License | ⚡ Latency / Architecture | 🎯 Description & Best Use Case |
 | :--- | :--- | :--- | :--- | :--- |
 | **[noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)** | [![Stars](https://img.shields.io/github/stars/werman/noise-suppression-for-voice?style=social&color=white)](https://github.com/werman/noise-suppression-for-voice/stargazers) | GPL-3.0 | Real-time / C++ | Real-time noise suppression plugin based on Xiph's RNNoise. Packaged as LADSPA, VST2, VST3, and LV2 plugins for system-wide microphone filtering on Linux (PipeWire/PulseAudio), Windows, and macOS. |
 | **[RNNoise](https://github.com/xiph/rnnoise)** | [![Stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers) | BSD-3-Clause | ~10ms / Recurrent Neural Network | The battle-tested, classic lightweight baseline for real-time speech enhancement combining classical DSP band-energy analysis with a compact RNN. Ideal for resource-constrained embedded targets. |
