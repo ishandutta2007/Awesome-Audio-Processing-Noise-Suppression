@@ -1,6 +1,6 @@
 # Awesome-Audio-Processing-Noise-Suppression
 
-# Top Audio Processing & Noise Suppression Ecosystem
+## Top Audio Processing & Noise Suppression Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Real-Time Noise Cancellation, AI Audio Restoration & Self-Hosted DSP Engines*  
